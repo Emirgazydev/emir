@@ -1,0 +1,1714 @@
+@media (max-width: 1440px) {
+  .container{
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  #hero{
+    .hero{
+      &--img{
+        img{
+          top: 32px;
+          right: -12px;
+          width: 37%;
+        }
+      }
+      &--abs4{
+        img{
+          right: -55px;
+        }
+        }
+      &--ab{
+        right: -13px;
+      }
+      }
+    }
+  #works{
+    .works{
+      &--lin{
+        img{
+          right: -55px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--card{
+        &__bg{
+          img{
+            width: 539px;
+          }
+        }
+      }
+      &--bg{
+        &__card{
+          img{
+            width: 357px;
+            height: 252px;
+          }
+        }
+      }
+      &--lin{
+        img{
+          left: -59px;
+        }
+        &__js{
+          right: -34px;
+        }
+      }
+
+    }
+  }
+  #tit{
+    .tit{
+      &--btn{
+        &__image{
+          img{
+            right: -57px;
+          }
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--title{
+        h1{
+          margin: -32px -10px 224px -11px;
+        }
+        a{
+          margin-left: -16px;
+        }
+      }
+      &--pr{
+        &__pi{
+          p{
+            margin: -15px 53px 29px 4px;
+          }
+        }
+      }
+      &--lins{
+        &__as{
+          right: -18px;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 1024px) {
+  #hero{
+    .hero{
+      &--title{
+        margin-left: 110px;
+        h1{
+          padding-top: 600px;
+        }
+        }
+      &--img{
+        img{
+          top: 32px;
+          right: 302px;
+          width: 40%;
+        }
+        }
+      &--ab{
+        right: 277px;
+      }
+      &--abs4{
+        img{
+          top: 60px;
+          right: -47px;
+          width: 80%;
+        }
+      }
+      &--abs2{
+        display: none;
+      }
+      &--abs{
+        top: 620px;
+        left: 132px;
+      }
+      &--abs3{
+        top: 299px;
+        right: 224px;
+
+      }
+      }
+      }
+  #block{
+    .block{
+      &--title{
+        margin: 83px -36px;
+        width: 990px;
+      }
+      &--ions{
+        top: -105px;
+        left: -5px;
+      }
+    }
+  }
+  #works{
+    .works{
+      &--card{
+        right: -368px;
+        h1{
+          font-size: 70px;
+        }
+        p{
+          font-size: 16px;
+        }
+        img{
+          width: 80%;
+        }
+        &__btn{
+          button{
+            width: 280px;
+            height: 67px;
+            top: -120px;
+            right: 125px;
+            font-size: 20px;
+          }
+        }
+      }
+      &--lin{
+          img{
+            right: -50px;
+        }
+      }
+      &--absa{
+        &__abs3{
+          bottom: -234px;
+          left: 10px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--card{
+        &__bg{
+          button{
+            width: 137.97px;
+            height: 64.65px;
+          }
+          img{
+            width: 461px;
+          }
+        }
+      }
+      &--bg{
+        &__card{
+          button{
+            width: 124px;
+            height: 58px;
+          }
+          img{
+            width: 304px;
+            height: 255px;
+          }
+          h1{
+            font-size: 24px;
+          }
+        }
+
+      }
+      &--lin{
+        img{
+          left: -49px;
+          top: 207px;
+        }
+        &__js1{
+          top: 293px;
+          left: -37px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--title{
+        padding-top: 196px;
+        p{
+          font-size: 17px;
+        }
+      }
+    }
+  }
+  #tit{
+    .tit{
+      &--btn{
+        img{
+          right: -54px;
+        }
+        &__bg{
+          right: -36px;
+        }
+        &__image{
+          img{
+            top: 176px;
+            right: -47px;
+          }
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--pr{
+        margin-left: 60px;
+        &__pi{
+          p{
+            font-size: 17px;
+            margin: -20px 36px 29px 4px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 992px) {
+  .container{
+    width: 90%;
+  }
+  #block{
+    .block{
+      &--title{
+        width: 373px;
+        height: 1026px;
+        margin: 144px 248px;
+        &__card{
+          top: 356px;
+          left: 96px;
+        }
+        &__card1{
+          top: 671px;
+          left: 94px;
+        }
+      }
+      &--ions{
+        top: -4px;
+        left: 160px;
+      }
+      &--ion{
+        top: -41px;
+        left: 180px;
+      }
+      &--ions1{
+        display: none;
+      }
+    }
+  }
+  #our{
+    .our{
+      &--bg{
+        img{
+          width: 295px;
+          height: 238px;
+        }
+      }
+      &--card{
+        &__bg{
+          img{
+            width: 447px;
+          }
+        }
+
+      }
+    }
+  }
+  #works{
+    .works{
+      flex-direction: column;
+      &--card{
+        right: -91px;
+
+      }
+      &--title{
+        &__bg{
+        position: relative;
+        }
+      }
+      &--title{
+        img{
+          top: -43px;
+          left: 131px;
+        }
+        &__bg{
+          left: -90px;
+          top: 23px;
+        }
+        &__ab{
+          top: 187px;
+          right: 10px;
+          left:730px;
+        }
+      }
+      &--lin{
+        img{
+          right: 4px;
+          top: -13px;
+        }
+
+      }
+      &--absa{
+        &__abs{
+          right: 117px;
+        }
+        &__abs3{
+          bottom: -75px;
+          left: 221px;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 768px) {
+  #hero{
+    .hero{
+      &--img{
+        img{
+          right: 85px;
+          width: 50%;
+        }
+      }
+      &--abs4{
+        img{
+          top: 163px;
+          right: -34px;
+          width: 90%;
+        }
+      }
+      &--ab{
+        top: -16px;
+        right: 71px;
+      }
+      &--title{
+        h1{
+          font-size: 60px;
+        }
+        p{
+          font-size: 18px;
+        }
+        &__btn{
+          width: 244.38px;
+          height: 64.65px;
+          font-size: 20px;
+        }
+        &__btn1{
+          width: 134.97px;
+          height: 65.65px;
+          font-size: 20px;
+        }
+      }
+    }
+  }
+  #header{
+    .header{
+      a{
+        margin: 0 37px;
+      }
+    }
+  }
+  #works{
+    .works{
+      &--title{
+        &__bg{
+          width: 395px;
+          height: 520px;
+
+        }
+        img{
+          width: 60%;
+          top: -41px;
+          left: 70px;
+        }
+        &__ab{
+          left: 558px;
+          width: 140px;
+          height: 139px;
+          h1{
+            font-size: 34px;
+          }
+        }
+        }
+      &--lin{
+        img{
+          right: 6px;
+          top: -61px;
+          width: 103%;
+        }
+      }
+      &--card{
+        h1{
+          font-size: 60px;
+        }
+      }
+      }
+    }
+  #new{
+    .new{
+      &--title{
+        padding: 27px;
+        h1{
+          font-size: 60px;
+          span{
+            font-size: 60px;
+          }
+        }
+      }
+      &--swiper{
+        &__card{
+          width: 173px;
+          height: 434px;
+          &--abs{
+            left: 76px;
+            width: 211px;
+            height: 126px;
+          }
+          &--lin{
+            width: 125px;
+            height: 125px;
+            margin: 28px 19px -20px 24px;
+            img{
+              width: 130%;
+              margin: -45px 6px 1px -25px;
+            }
+          }
+          &--bg{
+            h1{
+              font-size: 24px;
+            }
+            p{
+              font-size: 14px;
+            }
+            button{
+              width: 125px;
+              height: 46.07px;
+              font-size: 11px;
+            }
+            &--h1{
+              h2{
+                font-size: 22px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--title{
+        h1{
+          font-size: 50px;
+        }
+        p{
+          font-size: 14px;
+        }
+      }
+      &--card{
+        &__bg{
+          margin: 0 66px 5px -17px;
+          img{
+            width: 336px;
+            height: 176px;
+          }
+            h1{
+              font-size: 24px;
+            }
+            button{
+              width: 113px;
+              height: 53px;
+              top: 111px;
+              left: 33px;
+              font-size: 17px;
+            }
+        }
+      }
+      &--lin{
+        img{
+          display: none;
+        }
+        &__js2{
+          display: none;
+        }
+        &__js{
+          right: 42px;
+        }
+      }
+      &--bg{
+        &__card{
+          margin: 27px 54px 0 -13px;
+          h1{
+            font-size: 19px;
+          }
+          button{
+            width: 105px;
+            height: 44px;
+            top: 111px;
+            left: 10px;
+            font-size: 17px;
+          }
+        }
+        img{
+          width: 215px;
+          height: 167px;
+        }
+      }
+    }
+  }
+  #tit{
+    .tit{
+      flex-direction: column;
+      &--btn{
+        img{
+          position: relative;
+          right: -86px;
+          top: 79px;
+        }
+        &__image{
+          img{
+            display: none;
+          }
+        }
+        &__bg{
+          top: 566px;
+          right: 49px;
+        }
+        &__in{
+          display: none;
+        }
+      }
+      &--title{
+        h1{
+          font-size: 50px;
+          span{
+            font-size: 50px;
+          }
+        }
+        p{
+          font-size: 17px;
+        }
+        &__a{
+          a{
+            font-size: 19px;
+          }
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      h1{
+        margin: -40px -10px 110px -13px;
+        font-size: 30px;
+      }
+      a{
+        font-size: 20px;
+      }
+      &--pr{
+        &__pi{
+          margin-top: -64px;
+          p{
+            font-size: 12px;
+          }
+        }
+      }
+      &--a{
+        &__block{
+          width: 71px;
+          height: 68px;
+        }
+        &__ai{
+          padding-top: 66px;
+        }
+      }
+    }
+  }
+  }
+@media (max-width: 576px) {
+  #header{
+    .header{
+      a{
+        font-size: 13px;
+        margin: 0 30px;
+      }
+      h1{
+        font-size: 28px;
+        margin-left: 30px;
+      }
+    }
+  }
+  #hero{
+    .hero{
+      &--title{
+        margin-left: 47px;
+        h1{
+          font-size: 50px;
+          span{
+            font-size: 50px;
+          }
+        }
+        p{
+          font-size: 16px;
+        }
+      }
+      &--img{
+        img{
+          right: 100px;
+          width: 60%;
+        }
+      }
+      &--abs1{
+        left: 90px;
+      }
+      &--abs3{
+        top: 147px;
+        right: 48px;
+    }
+      &--abs4{
+        img{
+          top: 79px;
+          right: -26px;
+          width: 110%;
+        }
+      }
+      &--ab{
+        width: 143px;
+        height: 141px;
+        h1{
+          padding: 33px 20px;
+          font-size: 55px;
+        }
+      }
+    }
+  }
+  #block{
+    .block{
+      &--ion{
+        top: -58px;
+        left: 15px;
+      }
+      &--title{
+        width: 344px;
+        height: 1017px;
+        margin: 99px 86px;
+        &__card2{
+          top: 23px;
+          right: 110px;
+          width: 150px;
+          height: 150px;
+          img{
+            margin: 14px -22px;
+            width: 120%;
+          }
+          p{
+            font-size: 17.1334px;
+            line-height: 130.47%;
+          }
+        }
+        &__card1{
+          width: 150px;
+          height: 150px;
+          img{
+            margin: 1px -22px;
+            width: 120%;
+          }
+          p{
+            font-size: 17.1334px;
+            line-height: 130.47%;
+          }
+        }
+        &__card{
+          width: 150px;
+          height: 150px;
+          img{
+            margin: -10px 6px;
+            width: 100%;
+          }
+          p{
+            font-size: 17.1334px;
+            line-height: 130.47%;
+          }
+        }
+      }
+      &--ions{
+        left: 19px;
+      }
+    }
+  }
+  #works{
+    .works{
+      &--absa{
+        &__abs1{
+          left: 63px;
+        }
+      }
+      &--lin{
+        img{
+          right: 2px;
+        }
+      }
+      &--title{
+        img{
+          width: 60%;
+          top: -41px;
+          left: 28px;
+        }
+        &__bg{
+          width: 286px;
+          height: 373px;
+        }
+        &__ab{
+          left: 397px;
+          width: 140px;
+          height: 139px;
+          top: 123px;
+        }
+      }
+      &--card{
+        padding-bottom: 91px;
+        right: 3px;
+        h1{
+          font-size: 50px;
+          span{
+            font-size: 50px;
+          }
+        }
+        p{
+          font-size: 14px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--swiper{
+        &__card{
+          width: 130px;
+          height: 358px;
+          &--lin{
+            width: 88px;
+            height: 88px;
+            img{
+              margin: -26px 6px 1px -17px;
+            }
+          }
+          &--bg{
+            &--h1{
+              h2{
+                font-size: 15px;
+              }
+            }
+            h1{
+              font-size: 18px;
+            }
+            p{
+              font-size: 10px;
+            }
+            button{
+              width: 94px;
+              height: 33.07px;
+              font-size: 9px;
+            }
+          }
+        }
+      }
+      &--title{
+        padding: 1px;
+        h1{
+          font-size: 50px;
+          margin: 0 35px 0 0;
+          span{
+            font-size: 50px;
+          }
+        }
+        p{
+          font-size: 11px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--bg{
+        flex-direction: column;
+        padding-bottom: 8px;
+      }
+      &--card{
+        flex-direction: column;
+        &__bg{
+          margin: 0 -3px 35px -11px;
+        }
+      }
+      &--title{
+        h1{
+          font-size: 40px;
+          span{
+            font-size: 40px;
+          }
+        }
+        p{
+          margin-right: 67px;
+          font-size: 11px;
+        }
+      }
+    }
+  }
+  #tit{
+    .tit{
+      &--btn{
+        img{
+          right: -153px;
+          width: 65%;
+          top: 91px;
+        }
+        &__bg{
+          width: 245px;
+          height: 327px;
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--a{
+        &__ai{
+          display: none;
+        }
+        &__block{
+          width: 54px;
+          height: 55px;
+          a{
+            margin-top: 18px;
+          }
+        }
+      }
+      h1{
+        font-size: 25px;
+      }
+      a{
+        font-size: 16px;
+      }
+      &--pr{
+        &__pi{
+          p{
+            font-size: 9px;
+            margin: -33px 24px 27px -4px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 451px) {
+  #hero{
+    .hero{
+      &--abs{
+        left: 52px;
+      }
+      &--title{
+        &__h2{
+          h2{
+            font-size: 45px;
+            span{
+              font-size: 45px;
+            }
+          }
+          h4{
+            font-size: 15px;
+          }
+        }
+        &__btn{
+          width: 141.38px;
+          height: 57.650000000000006px;
+          font-size: 14px;
+        }
+        &__btn1{
+          width: 90.97px;
+          height: 55px;
+          font-size: 14px;
+        }
+        h1{
+          font-size: 37px;
+          span{
+            font-size: 37px;
+          }
+        }
+        p{
+          font-size: 14px;
+        }
+      }
+      &--ab{
+        width: 101px;
+        height: 101px;
+        top: 18px;
+        right: 91px;
+        h1{
+          padding: 27px 20px;
+          font-size: 35px;
+        }
+      }
+      &--abs4{
+        img{
+          right: -19px;
+        }
+      }
+    }
+  }
+  #header{
+    .header{
+      h1{
+        font-size: 23px;
+        margin-left: 4px;
+      }
+    }
+  }
+  #block{
+    .block{
+      &--ion{
+        width: 102px;
+        height: 102px;
+        top: -38px;
+        left: 30px;
+        h1{
+          font-size: 22px;
+        }
+      }
+      &--title{
+        width: 258px;
+        height: 762px;
+        margin: 77px 71px;
+        &__card2{
+          h1{
+            font-size: 22px;
+          }
+          p{
+            font-size: 14px;
+          }
+          top: 23px;
+          right: 84px;
+          width: 109px;
+          height: 109px;
+        }
+        &__card{
+          h1{
+            font-size: 22px;
+          }
+          p{
+            font-size: 14px;
+          }
+          width: 109px;
+          height: 109px;
+          top: 272px;
+          left: 66px;
+        }
+        &__card1{
+          h1{
+            font-size: 22px;
+          }
+          p{
+            font-size: 14px;
+          }
+          width: 109px;
+          height: 109px;
+          top: 520px;
+          left: 66px;
+        }
+      }
+    }
+  }
+  #works{
+    .works{
+      &--lin{
+        img{
+          right: 3px;
+          width: 102%;
+        }
+      }
+      &--title{
+        &__ab{
+          left: 292px;
+          width: 93px;
+          height: 92px;
+          top: 71px;
+          h1{
+            font-size: 20px;
+          }
+        }
+        img{
+          top: -30px;
+          left: 3px;
+        }
+        &__bg{
+          width: 228px;
+          height: 292px;
+        }
+      }
+      &--card{
+        img{
+          width: 70%;
+        }
+        &__btn{
+          button{
+            width: 173px;
+            height: 49px;
+            top: -119px;
+            right: 176px;
+            font-size: 13px;
+          }
+        }
+        h1{
+          font-size: 40px;
+          span{
+            font-size: 40px;
+          }
+        }
+        p{
+          font-size: 11px;
+        }
+      }
+      &--absa{
+        &__abs3{
+          left: 79px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--swiper{
+        &__card{
+          width: 102px;
+          height: 293px;
+          &--lin{
+            img{
+              margin: -20px 6px 1px -12px;
+            }
+            width: 58px;
+            height: 58px;
+          }
+          &--bg{
+            &--h1{
+              h2{
+                font-size: 11px;
+              }
+            }
+            h1{
+              font-size: 14px;
+            }
+            p{
+              font-size: 6px;
+            }
+            button{
+              width: 77px;
+              height: 26.07px;
+              font-size: 8px;
+            }
+          }
+        }
+      }
+      &--title{
+        h1{
+          font-size: 30px;
+          span{
+            font-size: 30px;
+          }
+        }
+        p{
+          font-size: 9px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--title{
+        h1{
+          font-size: 30px;
+          span{
+            font-size: 30px;
+          }
+        }
+        p{
+          margin-right: 51px;
+          font-size: 9px;
+        }
+      }
+      &--card{
+        &__bg{
+          h1{
+            font-size: 20px;
+          }
+          button{
+            width: 102px;
+            height: 46px;
+            top: 111px;
+            left: 33px;
+            font-size: 15px;
+          }
+
+        }
+      }
+      &--bg{
+        &__card{
+          h1{
+            font-size: 16px;
+          }
+          button{
+            width: 94px;
+            height: 36px;
+            top: 111px;
+            left: 10px;
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
+  #tit{
+    .tit{
+      &--title{
+        h1{
+          font-size: 30px;
+          span{
+            font-size: 30px;
+          }
+        }
+        p{
+          font-size: 14px;
+        }
+        &__a{
+          a{
+            font-size: 15px;
+            ion-icon{
+              font-size: 15px;
+            }
+          }
+        }
+      }
+      &--btn{
+        img{
+          right: -101px;
+          width: 65%;
+          top: 84px;
+        }
+        &__bg{
+          width: 220px;
+          height: 313px;
+          top: 459px;
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--lins{
+        &__as{
+          margin-top: -43px;
+        }
+      }
+      &--a{
+        display: none;
+      }
+      &--pr{
+        margin-left: 24px;
+        &__pi{
+          margin-top: -43px;
+          p{
+            font-size: 9px;
+            margin:-28px 29px 27px -3px;
+          }
+        }
+      }
+      h1{
+        font-size: 18px;
+      }
+      a{
+        display: none;
+      }
+    }
+  }
+}
+@media (max-width: 400px) {
+   #header{
+     .header{
+       a{
+         font-size: 11px;
+         margin: 0 23px;
+       }
+     }
+   }
+  #hero{
+    .hero{
+      &--abs3{
+        width: 189px;
+        height: 188px;
+        right: 70px;
+      }
+      &--abs4{
+        img{
+          right: -14px;
+          width: 108%;
+        }
+      }
+    }
+  }
+  #block{
+    .block{
+      &--ions{
+        width: 299.75px;
+        height: 195px;
+        top: -75px;
+      }
+    }
+  }
+  #tit{
+    .tit{
+      &--btn{
+        img{
+          right: -105px;
+          width: 65%;
+          top: 92px;
+        }
+        &__bg{
+          width: 197px;
+          height: 290px;
+        }
+      }
+    }
+  }
+  #works{
+    .works{
+      &--title{
+        &__bg{
+          width: 194px;
+          height: 260px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--swiper{
+        &__card{
+          width: 95px;
+          height: 287px;
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--pr{
+        margin-left: -30px;
+        &__pi{
+          margin-top: 17px;
+          p{
+            margin: -25px 41px 27px -12px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 376px) {
+  #hero{
+    .hero{
+      &--abs{
+        left: 30px;
+      }
+      &--abs1{
+        left: -3px;
+      }
+      &--title{
+        &__h2{
+          h2{
+            font-size: 32px;
+            span{
+              font-size: 30px;
+            }
+          }
+          h4{
+            font-size: 12px;
+          }
+        }
+      }
+    }
+  }
+  #works{
+    .works{
+      &--card{
+        &__btn{
+         button{
+           width: 127px;
+           height: 42px;
+           top: -94px;
+           right: 171px;
+           font-size: 9px;
+         }
+        }
+      }
+      &--title{
+        &__ab{
+          h1{
+            font-size: 17px;
+            margin-top: 24px;
+          }
+          left: 244px;
+          width: 77px;
+          height: 77px;
+          top: 49px;
+        }
+        &__bg{
+          width: 174px;
+          height: 231px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--swiper{
+        &__card{
+          &--bg{
+            h1{
+              font-size: 12px;
+            }
+            p{
+              padding: 6px;
+            }
+            button{
+              width: 64px;
+              height: 20.07px;
+              font-size: 6px;
+            }
+          }
+          &--lin{
+            margin: 16px 9px -37px 18px;
+          }
+          width: 89px;
+          height: 202px;
+        }
+      }
+      &--title{
+        h1{
+          margin: 0 19px 0 0;
+          font-size: 25px;
+        }
+        p{
+          font-size: 8px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--title{
+        p{
+          margin-right: 27px;
+          font-size: 7px;
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--pr{
+        &__pi{
+        p{
+          font-size: 8px;
+        }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 320px) {
+  #header{
+    .header{
+      h1{
+        font-size: 17px;
+        margin-left: -8px;
+      }
+      a{
+        font-size: 9px;
+        margin: 0 19px;
+      }
+    }
+  }
+  #hero{
+    .hero{
+      &--img{
+        img{
+          right: 64px;
+        }
+      }
+      &--abs{
+        left: -28px;
+      }
+      &--title{
+        &__h2{
+          margin-left: -51px;
+          h2{
+            font-size: 28px;
+          }
+        }
+        &__btn{
+          width: 114.38px;
+          height: 43.65px;
+          font-size: 10px;
+        }
+        &--btn1{
+          width: 74.97px;
+          height: 47px;
+          font-size: 9px;
+        }
+        h1{
+          font-size: 30px;
+          padding-top: 366px;
+        }
+        p{
+          font-size: 9px;
+          padding: 27px 0;
+        }
+      }
+      &--ab{
+        h1{
+          padding: 23px 17px;
+          font-size: 29px;
+        }
+        width: 84px;
+        height: 83px;
+        right: 58px;
+      }
+      &--abs4{
+        img{
+          right: -11px;
+        }
+      }
+      &--abs1{
+        display: none;
+      }
+      &--abs3{
+        width: 146px;
+        height: 151px;
+        right: 61px;
+      }
+    }
+  }
+  #block{
+    .block{
+      &--ion{
+        width: 78px;
+        height: 78px;
+        top: -31px;
+        left: 30px;
+        h1{
+          margin-top: 15px;
+          font-size: 17px;
+        }
+      }
+      &--title{
+        &__card2{
+          h1{
+            font-size: 19px;
+            padding-top: -9px;
+          }
+          p{
+            font-size: 11px;
+          }
+          top: 23px;
+          right: 46px;
+          width: 109px;
+        }
+        &__card{
+          h1{
+            font-size: 19px;
+            padding-top: -9px;
+          }
+          p{
+            font-size: 11px;
+          }
+          top: 232px;
+          left: 45px;
+          width: 109px;
+        }
+        &__card1{
+          h1{
+            font-size: 19px;
+            padding-top: -9px;
+          }
+          p{
+            font-size: 11px;
+          }
+          top: 445px;
+          left: 50px;
+          width: 109px;
+        }
+        width: 197px;
+        height: 666px;
+        margin: 65px 55px;
+      }
+      &--ions{
+        width: 40.75px;
+        height: 102px;
+        top: 40px;
+      }
+    }
+  }
+  #works{
+    .works{
+      &--card{
+        &__btn{
+          button{
+            top: -70px;
+            right: 123px;
+          }
+        }
+      }
+      &--absa{
+        &__abs{
+          right: 10px;
+        }
+        &__abs3{
+          left: 31px;
+          width: 168px;
+          height: 215px;
+        }
+        &__abs1{
+          display: none;
+        }
+      }
+      &--title{
+        &__ab{
+          left: 212px;
+
+        }
+      }
+      &--lin{
+        img{
+          right: 0;
+        }
+      }
+      &--title{
+        &__bg{
+          left: -80px;
+          width: 140px;
+          height: 198px;
+        }
+      }
+    }
+  }
+  #new{
+    .new{
+      &--swiper{
+        &__card{
+          border-radius: 10px;
+          width: 76px;
+          height: 172px;
+          &--bg{
+            button{
+              width: 48px;
+              height: 17.07px;
+              font-size: 4px;
+            }
+          }
+          &--lin{
+            width: 43px;
+            height: 43px;
+            margin: 9px 1px -38px 23px;
+            img{
+              margin: -15px 6px 1px -7px;
+            }
+          }
+        }
+      }
+      &--title{
+        padding: 23px;
+        h1{
+          font-size: 18px;
+          span{
+            font-size: 18px;
+          }
+        }
+        p{
+          font-size: 6px;
+        }
+      }
+    }
+  }
+  #our{
+    .our{
+      &--card{
+        &__bg{
+
+          img{
+            width: 247px;
+            height: 124px;
+          }
+          h1{
+            font-size: 14px;
+          }
+          button{
+            width: 78px;
+            height: 33px;
+            top: 87px;
+            left: 33px;
+            font-size: 11px;
+          }
+        }
+      }
+      &--title{
+        h1{
+          font-size: 20px;
+          span{
+            font-size: 20px;
+          }
+        }
+        p{
+          margin-right: 23px;
+          font-size: 6px;
+        }
+      }
+      &--bg{
+        margin-left: 54px;
+      }
+    }
+  }
+  #tit{
+    .tit{
+      &--btn{
+        img{
+          right: -50px;
+          width: 65%;
+          top: 87px;
+        }
+        &__bg{
+          width: 161px;
+          height: 223px;
+        }
+      }
+    }
+  }
+  #footer{
+    .footer{
+      &--lins{
+        &__as{
+          right: 24px;
+        }
+      }
+      &--pr{
+        &__pi{
+          p{
+            margin: -27px 35px 27px -18px;
+          }
+        }
+      }
+      h1{
+        font-size: 15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,1238 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  #hero .hero--img img {
+    top: 32px;
+    right: -12px;
+    width: 37%;
+  }
+  #hero .hero--abs4 img {
+    right: -55px;
+  }
+  #hero .hero--ab {
+    right: -13px;
+  }
+  #works .works--lin img {
+    right: -55px;
+  }
+  #our .our--card__bg img {
+    width: 539px;
+  }
+  #our .our--bg__card img {
+    width: 357px;
+    height: 252px;
+  }
+  #our .our--lin img {
+    left: -59px;
+  }
+  #our .our--lin__js {
+    right: -34px;
+  }
+  #tit .tit--btn__image img {
+    right: -57px;
+  }
+  #footer .footer--title h1 {
+    margin: -32px -10px 224px -11px;
+  }
+  #footer .footer--title a {
+    margin-left: -16px;
+  }
+  #footer .footer--pr__pi p {
+    margin: -15px 53px 29px 4px;
+  }
+  #footer .footer--lins__as {
+    right: -18px;
+  }
+}
+@media (max-width: 1024px) {
+  #hero .hero--title {
+    margin-left: 110px;
+  }
+  #hero .hero--title h1 {
+    padding-top: 600px;
+  }
+  #hero .hero--img img {
+    top: 32px;
+    right: 302px;
+    width: 40%;
+  }
+  #hero .hero--ab {
+    right: 277px;
+  }
+  #hero .hero--abs4 img {
+    top: 60px;
+    right: -47px;
+    width: 80%;
+  }
+  #hero .hero--abs2 {
+    display: none;
+  }
+  #hero .hero--abs {
+    top: 620px;
+    left: 132px;
+  }
+  #hero .hero--abs3 {
+    top: 299px;
+    right: 224px;
+  }
+  #block .block--title {
+    margin: 83px -36px;
+    width: 990px;
+  }
+  #block .block--ions {
+    top: -105px;
+    left: -5px;
+  }
+  #works .works--card {
+    right: -368px;
+  }
+  #works .works--card h1 {
+    font-size: 70px;
+  }
+  #works .works--card p {
+    font-size: 16px;
+  }
+  #works .works--card img {
+    width: 80%;
+  }
+  #works .works--card__btn button {
+    width: 280px;
+    height: 67px;
+    top: -120px;
+    right: 125px;
+    font-size: 20px;
+  }
+  #works .works--lin img {
+    right: -50px;
+  }
+  #works .works--absa__abs3 {
+    bottom: -234px;
+    left: 10px;
+  }
+  #our .our--card__bg button {
+    width: 137.97px;
+    height: 64.65px;
+  }
+  #our .our--card__bg img {
+    width: 461px;
+  }
+  #our .our--bg__card button {
+    width: 124px;
+    height: 58px;
+  }
+  #our .our--bg__card img {
+    width: 304px;
+    height: 255px;
+  }
+  #our .our--bg__card h1 {
+    font-size: 24px;
+  }
+  #our .our--lin img {
+    left: -49px;
+    top: 207px;
+  }
+  #our .our--lin__js1 {
+    top: 293px;
+    left: -37px;
+  }
+  #new .new--title {
+    padding-top: 196px;
+  }
+  #new .new--title p {
+    font-size: 17px;
+  }
+  #tit .tit--btn img {
+    right: -54px;
+  }
+  #tit .tit--btn__bg {
+    right: -36px;
+  }
+  #tit .tit--btn__image img {
+    top: 176px;
+    right: -47px;
+  }
+  #footer .footer--pr {
+    margin-left: 60px;
+  }
+  #footer .footer--pr__pi p {
+    font-size: 17px;
+    margin: -20px 36px 29px 4px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    width: 90%;
+  }
+  #block .block--title {
+    width: 373px;
+    height: 1026px;
+    margin: 144px 248px;
+  }
+  #block .block--title__card {
+    top: 356px;
+    left: 96px;
+  }
+  #block .block--title__card1 {
+    top: 671px;
+    left: 94px;
+  }
+  #block .block--ions {
+    top: -4px;
+    left: 160px;
+  }
+  #block .block--ion {
+    top: -41px;
+    left: 180px;
+  }
+  #block .block--ions1 {
+    display: none;
+  }
+  #our .our--bg img {
+    width: 295px;
+    height: 238px;
+  }
+  #our .our--card__bg img {
+    width: 447px;
+  }
+  #works .works {
+    flex-direction: column;
+  }
+  #works .works--card {
+    right: -91px;
+  }
+  #works .works--title__bg {
+    position: relative;
+  }
+  #works .works--title img {
+    top: -43px;
+    left: 131px;
+  }
+  #works .works--title__bg {
+    left: -90px;
+    top: 23px;
+  }
+  #works .works--title__ab {
+    top: 187px;
+    right: 10px;
+    left: 730px;
+  }
+  #works .works--lin img {
+    right: 4px;
+    top: -13px;
+  }
+  #works .works--absa__abs {
+    right: 117px;
+  }
+  #works .works--absa__abs3 {
+    bottom: -75px;
+    left: 221px;
+  }
+}
+@media (max-width: 768px) {
+  #hero .hero--img img {
+    right: 85px;
+    width: 50%;
+  }
+  #hero .hero--abs4 img {
+    top: 163px;
+    right: -34px;
+    width: 90%;
+  }
+  #hero .hero--ab {
+    top: -16px;
+    right: 71px;
+  }
+  #hero .hero--title h1 {
+    font-size: 60px;
+  }
+  #hero .hero--title p {
+    font-size: 18px;
+  }
+  #hero .hero--title__btn {
+    width: 244.38px;
+    height: 64.65px;
+    font-size: 20px;
+  }
+  #hero .hero--title__btn1 {
+    width: 134.97px;
+    height: 65.65px;
+    font-size: 20px;
+  }
+  #header .header a {
+    margin: 0 37px;
+  }
+  #works .works--title__bg {
+    width: 395px;
+    height: 520px;
+  }
+  #works .works--title img {
+    width: 60%;
+    top: -41px;
+    left: 70px;
+  }
+  #works .works--title__ab {
+    left: 558px;
+    width: 140px;
+    height: 139px;
+  }
+  #works .works--title__ab h1 {
+    font-size: 34px;
+  }
+  #works .works--lin img {
+    right: 6px;
+    top: -61px;
+    width: 103%;
+  }
+  #works .works--card h1 {
+    font-size: 60px;
+  }
+  #new .new--title {
+    padding: 27px;
+  }
+  #new .new--title h1 {
+    font-size: 60px;
+  }
+  #new .new--title h1 span {
+    font-size: 60px;
+  }
+  #new .new--swiper__card {
+    width: 173px;
+    height: 434px;
+  }
+  #new .new--swiper__card--abs {
+    left: 76px;
+    width: 211px;
+    height: 126px;
+  }
+  #new .new--swiper__card--lin {
+    width: 125px;
+    height: 125px;
+    margin: 28px 19px -20px 24px;
+  }
+  #new .new--swiper__card--lin img {
+    width: 130%;
+    margin: -45px 6px 1px -25px;
+  }
+  #new .new--swiper__card--bg h1 {
+    font-size: 24px;
+  }
+  #new .new--swiper__card--bg p {
+    font-size: 14px;
+  }
+  #new .new--swiper__card--bg button {
+    width: 125px;
+    height: 46.07px;
+    font-size: 11px;
+  }
+  #new .new--swiper__card--bg--h1 h2 {
+    font-size: 22px;
+  }
+  #our .our--title h1 {
+    font-size: 50px;
+  }
+  #our .our--title p {
+    font-size: 14px;
+  }
+  #our .our--card__bg {
+    margin: 0 66px 5px -17px;
+  }
+  #our .our--card__bg img {
+    width: 336px;
+    height: 176px;
+  }
+  #our .our--card__bg h1 {
+    font-size: 24px;
+  }
+  #our .our--card__bg button {
+    width: 113px;
+    height: 53px;
+    top: 111px;
+    left: 33px;
+    font-size: 17px;
+  }
+  #our .our--lin img {
+    display: none;
+  }
+  #our .our--lin__js2 {
+    display: none;
+  }
+  #our .our--lin__js {
+    right: 42px;
+  }
+  #our .our--bg__card {
+    margin: 27px 54px 0 -13px;
+  }
+  #our .our--bg__card h1 {
+    font-size: 19px;
+  }
+  #our .our--bg__card button {
+    width: 105px;
+    height: 44px;
+    top: 111px;
+    left: 10px;
+    font-size: 17px;
+  }
+  #our .our--bg img {
+    width: 215px;
+    height: 167px;
+  }
+  #tit .tit {
+    flex-direction: column;
+  }
+  #tit .tit--btn img {
+    position: relative;
+    right: -86px;
+    top: 79px;
+  }
+  #tit .tit--btn__image img {
+    display: none;
+  }
+  #tit .tit--btn__bg {
+    top: 566px;
+    right: 49px;
+  }
+  #tit .tit--btn__in {
+    display: none;
+  }
+  #tit .tit--title h1 {
+    font-size: 50px;
+  }
+  #tit .tit--title h1 span {
+    font-size: 50px;
+  }
+  #tit .tit--title p {
+    font-size: 17px;
+  }
+  #tit .tit--title__a a {
+    font-size: 19px;
+  }
+  #footer .footer h1 {
+    margin: -40px -10px 110px -13px;
+    font-size: 30px;
+  }
+  #footer .footer a {
+    font-size: 20px;
+  }
+  #footer .footer--pr__pi {
+    margin-top: -64px;
+  }
+  #footer .footer--pr__pi p {
+    font-size: 12px;
+  }
+  #footer .footer--a__block {
+    width: 71px;
+    height: 68px;
+  }
+  #footer .footer--a__ai {
+    padding-top: 66px;
+  }
+}
+@media (max-width: 576px) {
+  #header .header a {
+    font-size: 13px;
+    margin: 0 30px;
+  }
+  #header .header h1 {
+    font-size: 28px;
+    margin-left: 30px;
+  }
+  #hero .hero--title {
+    margin-left: 47px;
+  }
+  #hero .hero--title h1 {
+    font-size: 50px;
+  }
+  #hero .hero--title h1 span {
+    font-size: 50px;
+  }
+  #hero .hero--title p {
+    font-size: 16px;
+  }
+  #hero .hero--img img {
+    right: 100px;
+    width: 60%;
+  }
+  #hero .hero--abs1 {
+    left: 90px;
+  }
+  #hero .hero--abs3 {
+    top: 147px;
+    right: 48px;
+  }
+  #hero .hero--abs4 img {
+    top: 79px;
+    right: -26px;
+    width: 110%;
+  }
+  #hero .hero--ab {
+    width: 143px;
+    height: 141px;
+  }
+  #hero .hero--ab h1 {
+    padding: 33px 20px;
+    font-size: 55px;
+  }
+  #block .block--ion {
+    top: -58px;
+    left: 15px;
+  }
+  #block .block--title {
+    width: 344px;
+    height: 1017px;
+    margin: 99px 86px;
+  }
+  #block .block--title__card2 {
+    top: 23px;
+    right: 110px;
+    width: 150px;
+    height: 150px;
+  }
+  #block .block--title__card2 img {
+    margin: 14px -22px;
+    width: 120%;
+  }
+  #block .block--title__card2 p {
+    font-size: 17.1334px;
+    line-height: 130.47%;
+  }
+  #block .block--title__card1 {
+    width: 150px;
+    height: 150px;
+  }
+  #block .block--title__card1 img {
+    margin: 1px -22px;
+    width: 120%;
+  }
+  #block .block--title__card1 p {
+    font-size: 17.1334px;
+    line-height: 130.47%;
+  }
+  #block .block--title__card {
+    width: 150px;
+    height: 150px;
+  }
+  #block .block--title__card img {
+    margin: -10px 6px;
+    width: 100%;
+  }
+  #block .block--title__card p {
+    font-size: 17.1334px;
+    line-height: 130.47%;
+  }
+  #block .block--ions {
+    left: 19px;
+  }
+  #works .works--absa__abs1 {
+    left: 63px;
+  }
+  #works .works--lin img {
+    right: 2px;
+  }
+  #works .works--title img {
+    width: 60%;
+    top: -41px;
+    left: 28px;
+  }
+  #works .works--title__bg {
+    width: 286px;
+    height: 373px;
+  }
+  #works .works--title__ab {
+    left: 397px;
+    width: 140px;
+    height: 139px;
+    top: 123px;
+  }
+  #works .works--card {
+    padding-bottom: 91px;
+    right: 3px;
+  }
+  #works .works--card h1 {
+    font-size: 50px;
+  }
+  #works .works--card h1 span {
+    font-size: 50px;
+  }
+  #works .works--card p {
+    font-size: 14px;
+  }
+  #new .new--swiper__card {
+    width: 130px;
+    height: 358px;
+  }
+  #new .new--swiper__card--lin {
+    width: 88px;
+    height: 88px;
+  }
+  #new .new--swiper__card--lin img {
+    margin: -26px 6px 1px -17px;
+  }
+  #new .new--swiper__card--bg--h1 h2 {
+    font-size: 15px;
+  }
+  #new .new--swiper__card--bg h1 {
+    font-size: 18px;
+  }
+  #new .new--swiper__card--bg p {
+    font-size: 10px;
+  }
+  #new .new--swiper__card--bg button {
+    width: 94px;
+    height: 33.07px;
+    font-size: 9px;
+  }
+  #new .new--title {
+    padding: 1px;
+  }
+  #new .new--title h1 {
+    font-size: 50px;
+    margin: 0 35px 0 0;
+  }
+  #new .new--title h1 span {
+    font-size: 50px;
+  }
+  #new .new--title p {
+    font-size: 11px;
+  }
+  #our .our--bg {
+    flex-direction: column;
+    padding-bottom: 8px;
+  }
+  #our .our--card {
+    flex-direction: column;
+  }
+  #our .our--card__bg {
+    margin: 0 -3px 35px -11px;
+  }
+  #our .our--title h1 {
+    font-size: 40px;
+  }
+  #our .our--title h1 span {
+    font-size: 40px;
+  }
+  #our .our--title p {
+    margin-right: 67px;
+    font-size: 11px;
+  }
+  #tit .tit--btn img {
+    right: -153px;
+    width: 65%;
+    top: 91px;
+  }
+  #tit .tit--btn__bg {
+    width: 245px;
+    height: 327px;
+  }
+  #footer .footer--a__ai {
+    display: none;
+  }
+  #footer .footer--a__block {
+    width: 54px;
+    height: 55px;
+  }
+  #footer .footer--a__block a {
+    margin-top: 18px;
+  }
+  #footer .footer h1 {
+    font-size: 25px;
+  }
+  #footer .footer a {
+    font-size: 16px;
+  }
+  #footer .footer--pr__pi p {
+    font-size: 9px;
+    margin: -33px 24px 27px -4px;
+  }
+}
+@media (max-width: 451px) {
+  #hero .hero--abs {
+    left: 52px;
+  }
+  #hero .hero--title__h2 h2 {
+    font-size: 45px;
+  }
+  #hero .hero--title__h2 h2 span {
+    font-size: 45px;
+  }
+  #hero .hero--title__h2 h4 {
+    font-size: 15px;
+  }
+  #hero .hero--title__btn {
+    width: 141.38px;
+    height: 57.65px;
+    font-size: 14px;
+  }
+  #hero .hero--title__btn1 {
+    width: 90.97px;
+    height: 55px;
+    font-size: 14px;
+  }
+  #hero .hero--title h1 {
+    font-size: 37px;
+  }
+  #hero .hero--title h1 span {
+    font-size: 37px;
+  }
+  #hero .hero--title p {
+    font-size: 14px;
+  }
+  #hero .hero--ab {
+    width: 101px;
+    height: 101px;
+    top: 18px;
+    right: 91px;
+  }
+  #hero .hero--ab h1 {
+    padding: 27px 20px;
+    font-size: 35px;
+  }
+  #hero .hero--abs4 img {
+    right: -19px;
+  }
+  #header .header h1 {
+    font-size: 23px;
+    margin-left: 4px;
+  }
+  #block .block--ion {
+    width: 102px;
+    height: 102px;
+    top: -38px;
+    left: 30px;
+  }
+  #block .block--ion h1 {
+    font-size: 22px;
+  }
+  #block .block--title {
+    width: 258px;
+    height: 762px;
+    margin: 77px 71px;
+  }
+  #block .block--title__card2 {
+    top: 23px;
+    right: 84px;
+    width: 109px;
+    height: 109px;
+  }
+  #block .block--title__card2 h1 {
+    font-size: 22px;
+  }
+  #block .block--title__card2 p {
+    font-size: 14px;
+  }
+  #block .block--title__card {
+    width: 109px;
+    height: 109px;
+    top: 272px;
+    left: 66px;
+  }
+  #block .block--title__card h1 {
+    font-size: 22px;
+  }
+  #block .block--title__card p {
+    font-size: 14px;
+  }
+  #block .block--title__card1 {
+    width: 109px;
+    height: 109px;
+    top: 520px;
+    left: 66px;
+  }
+  #block .block--title__card1 h1 {
+    font-size: 22px;
+  }
+  #block .block--title__card1 p {
+    font-size: 14px;
+  }
+  #works .works--lin img {
+    right: 3px;
+    width: 102%;
+  }
+  #works .works--title__ab {
+    left: 292px;
+    width: 93px;
+    height: 92px;
+    top: 71px;
+  }
+  #works .works--title__ab h1 {
+    font-size: 20px;
+  }
+  #works .works--title img {
+    top: -30px;
+    left: 3px;
+  }
+  #works .works--title__bg {
+    width: 228px;
+    height: 292px;
+  }
+  #works .works--card img {
+    width: 70%;
+  }
+  #works .works--card__btn button {
+    width: 173px;
+    height: 49px;
+    top: -119px;
+    right: 176px;
+    font-size: 13px;
+  }
+  #works .works--card h1 {
+    font-size: 40px;
+  }
+  #works .works--card h1 span {
+    font-size: 40px;
+  }
+  #works .works--card p {
+    font-size: 11px;
+  }
+  #works .works--absa__abs3 {
+    left: 79px;
+  }
+  #new .new--swiper__card {
+    width: 102px;
+    height: 293px;
+  }
+  #new .new--swiper__card--lin {
+    width: 58px;
+    height: 58px;
+  }
+  #new .new--swiper__card--lin img {
+    margin: -20px 6px 1px -12px;
+  }
+  #new .new--swiper__card--bg--h1 h2 {
+    font-size: 11px;
+  }
+  #new .new--swiper__card--bg h1 {
+    font-size: 14px;
+  }
+  #new .new--swiper__card--bg p {
+    font-size: 6px;
+  }
+  #new .new--swiper__card--bg button {
+    width: 77px;
+    height: 26.07px;
+    font-size: 8px;
+  }
+  #new .new--title h1 {
+    font-size: 30px;
+  }
+  #new .new--title h1 span {
+    font-size: 30px;
+  }
+  #new .new--title p {
+    font-size: 9px;
+  }
+  #our .our--title h1 {
+    font-size: 30px;
+  }
+  #our .our--title h1 span {
+    font-size: 30px;
+  }
+  #our .our--title p {
+    margin-right: 51px;
+    font-size: 9px;
+  }
+  #our .our--card__bg h1 {
+    font-size: 20px;
+  }
+  #our .our--card__bg button {
+    width: 102px;
+    height: 46px;
+    top: 111px;
+    left: 33px;
+    font-size: 15px;
+  }
+  #our .our--bg__card h1 {
+    font-size: 16px;
+  }
+  #our .our--bg__card button {
+    width: 94px;
+    height: 36px;
+    top: 111px;
+    left: 10px;
+    font-size: 14px;
+  }
+  #tit .tit--title h1 {
+    font-size: 30px;
+  }
+  #tit .tit--title h1 span {
+    font-size: 30px;
+  }
+  #tit .tit--title p {
+    font-size: 14px;
+  }
+  #tit .tit--title__a a {
+    font-size: 15px;
+  }
+  #tit .tit--title__a a ion-icon {
+    font-size: 15px;
+  }
+  #tit .tit--btn img {
+    right: -101px;
+    width: 65%;
+    top: 84px;
+  }
+  #tit .tit--btn__bg {
+    width: 220px;
+    height: 313px;
+    top: 459px;
+  }
+  #footer .footer--lins__as {
+    margin-top: -43px;
+  }
+  #footer .footer--a {
+    display: none;
+  }
+  #footer .footer--pr {
+    margin-left: 24px;
+  }
+  #footer .footer--pr__pi {
+    margin-top: -43px;
+  }
+  #footer .footer--pr__pi p {
+    font-size: 9px;
+    margin: -28px 29px 27px -3px;
+  }
+  #footer .footer h1 {
+    font-size: 18px;
+  }
+  #footer .footer a {
+    display: none;
+  }
+}
+@media (max-width: 400px) {
+  #header .header a {
+    font-size: 11px;
+    margin: 0 23px;
+  }
+  #hero .hero--abs3 {
+    width: 189px;
+    height: 188px;
+    right: 70px;
+  }
+  #hero .hero--abs4 img {
+    right: -14px;
+    width: 108%;
+  }
+  #block .block--ions {
+    width: 299.75px;
+    height: 195px;
+    top: -75px;
+  }
+  #tit .tit--btn img {
+    right: -105px;
+    width: 65%;
+    top: 92px;
+  }
+  #tit .tit--btn__bg {
+    width: 197px;
+    height: 290px;
+  }
+  #works .works--title__bg {
+    width: 194px;
+    height: 260px;
+  }
+  #new .new--swiper__card {
+    width: 95px;
+    height: 287px;
+  }
+  #footer .footer--pr {
+    margin-left: -30px;
+  }
+  #footer .footer--pr__pi {
+    margin-top: 17px;
+  }
+  #footer .footer--pr__pi p {
+    margin: -25px 41px 27px -12px;
+  }
+}
+@media (max-width: 376px) {
+  #hero .hero--abs {
+    left: 30px;
+  }
+  #hero .hero--abs1 {
+    left: -3px;
+  }
+  #hero .hero--title__h2 h2 {
+    font-size: 32px;
+  }
+  #hero .hero--title__h2 h2 span {
+    font-size: 30px;
+  }
+  #hero .hero--title__h2 h4 {
+    font-size: 12px;
+  }
+  #works .works--card__btn button {
+    width: 127px;
+    height: 42px;
+    top: -94px;
+    right: 171px;
+    font-size: 9px;
+  }
+  #works .works--title__ab {
+    left: 244px;
+    width: 77px;
+    height: 77px;
+    top: 49px;
+  }
+  #works .works--title__ab h1 {
+    font-size: 17px;
+    margin-top: 24px;
+  }
+  #works .works--title__bg {
+    width: 174px;
+    height: 231px;
+  }
+  #new .new--swiper__card {
+    width: 89px;
+    height: 202px;
+  }
+  #new .new--swiper__card--bg h1 {
+    font-size: 12px;
+  }
+  #new .new--swiper__card--bg p {
+    padding: 6px;
+  }
+  #new .new--swiper__card--bg button {
+    width: 64px;
+    height: 20.07px;
+    font-size: 6px;
+  }
+  #new .new--swiper__card--lin {
+    margin: 16px 9px -37px 18px;
+  }
+  #new .new--title h1 {
+    margin: 0 19px 0 0;
+    font-size: 25px;
+  }
+  #new .new--title p {
+    font-size: 8px;
+  }
+  #our .our--title p {
+    margin-right: 27px;
+    font-size: 7px;
+  }
+  #footer .footer--pr__pi p {
+    font-size: 8px;
+  }
+}
+@media (max-width: 320px) {
+  #header .header h1 {
+    font-size: 17px;
+    margin-left: -8px;
+  }
+  #header .header a {
+    font-size: 9px;
+    margin: 0 19px;
+  }
+  #hero .hero--img img {
+    right: 64px;
+  }
+  #hero .hero--abs {
+    left: -28px;
+  }
+  #hero .hero--title__h2 {
+    margin-left: -51px;
+  }
+  #hero .hero--title__h2 h2 {
+    font-size: 28px;
+  }
+  #hero .hero--title__btn {
+    width: 114.38px;
+    height: 43.65px;
+    font-size: 10px;
+  }
+  #hero .hero--title--btn1 {
+    width: 74.97px;
+    height: 47px;
+    font-size: 9px;
+  }
+  #hero .hero--title h1 {
+    font-size: 30px;
+    padding-top: 366px;
+  }
+  #hero .hero--title p {
+    font-size: 9px;
+    padding: 27px 0;
+  }
+  #hero .hero--ab {
+    width: 84px;
+    height: 83px;
+    right: 58px;
+  }
+  #hero .hero--ab h1 {
+    padding: 23px 17px;
+    font-size: 29px;
+  }
+  #hero .hero--abs4 img {
+    right: -11px;
+  }
+  #hero .hero--abs1 {
+    display: none;
+  }
+  #hero .hero--abs3 {
+    width: 146px;
+    height: 151px;
+    right: 61px;
+  }
+  #block .block--ion {
+    width: 78px;
+    height: 78px;
+    top: -31px;
+    left: 30px;
+  }
+  #block .block--ion h1 {
+    margin-top: 15px;
+    font-size: 17px;
+  }
+  #block .block--title {
+    width: 197px;
+    height: 666px;
+    margin: 65px 55px;
+  }
+  #block .block--title__card2 {
+    top: 23px;
+    right: 46px;
+    width: 109px;
+  }
+  #block .block--title__card2 h1 {
+    font-size: 19px;
+    padding-top: -9px;
+  }
+  #block .block--title__card2 p {
+    font-size: 11px;
+  }
+  #block .block--title__card {
+    top: 232px;
+    left: 45px;
+    width: 109px;
+  }
+  #block .block--title__card h1 {
+    font-size: 19px;
+    padding-top: -9px;
+  }
+  #block .block--title__card p {
+    font-size: 11px;
+  }
+  #block .block--title__card1 {
+    top: 445px;
+    left: 50px;
+    width: 109px;
+  }
+  #block .block--title__card1 h1 {
+    font-size: 19px;
+    padding-top: -9px;
+  }
+  #block .block--title__card1 p {
+    font-size: 11px;
+  }
+  #block .block--ions {
+    width: 40.75px;
+    height: 102px;
+    top: 40px;
+  }
+  #works .works--card__btn button {
+    top: -70px;
+    right: 123px;
+  }
+  #works .works--absa__abs {
+    right: 10px;
+  }
+  #works .works--absa__abs3 {
+    left: 31px;
+    width: 168px;
+    height: 215px;
+  }
+  #works .works--absa__abs1 {
+    display: none;
+  }
+  #works .works--title__ab {
+    left: 212px;
+  }
+  #works .works--lin img {
+    right: 0;
+  }
+  #works .works--title__bg {
+    left: -80px;
+    width: 140px;
+    height: 198px;
+  }
+  #new .new--swiper__card {
+    border-radius: 10px;
+    width: 76px;
+    height: 172px;
+  }
+  #new .new--swiper__card--bg button {
+    width: 48px;
+    height: 17.07px;
+    font-size: 4px;
+  }
+  #new .new--swiper__card--lin {
+    width: 43px;
+    height: 43px;
+    margin: 9px 1px -38px 23px;
+  }
+  #new .new--swiper__card--lin img {
+    margin: -15px 6px 1px -7px;
+  }
+  #new .new--title {
+    padding: 23px;
+  }
+  #new .new--title h1 {
+    font-size: 18px;
+  }
+  #new .new--title h1 span {
+    font-size: 18px;
+  }
+  #new .new--title p {
+    font-size: 6px;
+  }
+  #our .our--card__bg img {
+    width: 247px;
+    height: 124px;
+  }
+  #our .our--card__bg h1 {
+    font-size: 14px;
+  }
+  #our .our--card__bg button {
+    width: 78px;
+    height: 33px;
+    top: 87px;
+    left: 33px;
+    font-size: 11px;
+  }
+  #our .our--title h1 {
+    font-size: 20px;
+  }
+  #our .our--title h1 span {
+    font-size: 20px;
+  }
+  #our .our--title p {
+    margin-right: 23px;
+    font-size: 6px;
+  }
+  #our .our--bg {
+    margin-left: 54px;
+  }
+  #tit .tit--btn img {
+    right: -50px;
+    width: 65%;
+    top: 87px;
+  }
+  #tit .tit--btn__bg {
+    width: 161px;
+    height: 223px;
+  }
+  #footer .footer--lins__as {
+    right: 24px;
+  }
+  #footer .footer--pr__pi p {
+    margin: -27px 35px 27px -18px;
+  }
+  #footer .footer h1 {
+    font-size: 15px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

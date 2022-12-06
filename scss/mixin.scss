@@ -1,0 +1,104 @@
+@mixin end{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+@mixin center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@mixin between{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@mixin around{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@mixin evenly{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+@mixin start{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+@mixin flex{
+  display: flex;
+  align-items: center;
+}
+@mixin jh{
+  position: absolute;
+  width: 408.75px;
+  height: 327px;
+  background: linear-gradient(267.2deg, rgba(35, 114, 73, 0.165) 3.05%, rgba(53, 198, 107, 0.219) 40.73%);
+  filter: blur(88.5625px);
+}
+@mixin black{
+  position: absolute;
+  width: 266px;
+  height: 229px;
+  background: rgba(217, 217, 217, 0.3);
+  filter: blur(62.0208px);
+}
+@mixin button{
+  width: 326px;
+  height: 75px;
+  font-weight: 639;
+  font-size: 24px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+  background: linear-gradient(265.23deg, #237249 6.79%, #35C66B 97.2%);
+  border-radius: 82.834px;
+}
+@mixin ab{
+  position: absolute;
+  top: 59px;
+  left: 328px;
+  width: 160px;
+  height: 153px;
+  border-radius: 127px;
+  background: linear-gradient(267.2deg, #237249 3.05%, #35C66B 75.72%);
+  box-shadow: -10.9025px -12.1139px 35.1302px rgba(1, 3, 2, 0.37);
+}
+@mixin abh1{
+  font-weight: 500;
+  font-size: 38.7644px;
+  line-height: 86.47%;
+  text-align: center;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+@mixin absa{
+  position: absolute;
+  z-index: -1;
+  width: 289px;
+  height: 245px;
+  background: linear-gradient(267.2deg, rgba(35, 114, 73, 0.165) 3.05%, rgba(53, 198, 107, 0.219) 40.73%);
+  filter: blur(72.8px)
+}
+@mixin absawh{
+  position: absolute;
+  z-index: -1;
+  width: 299px;
+  height: 257.41px;
+  background: rgba(217, 217, 217, 0.1);
+  filter: blur(69.7151px);
+}
+@mixin minibut{
+  position: absolute;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+  color: #D9D9D9;
+  width: 167.97px;
+  height: 74.65px;
+  background: linear-gradient(267.2deg, #237249 3.05%, #35C66B 75.72%);
+  border-radius: 82.834px;
+}
